@@ -23,6 +23,29 @@
     width: 35%; /* Set the width of the box */
     height: 270px; /* Set the height of the box */
     border: 5px solid #313131; /* Set the border with a color and thickness */
+    padding: 2px; /* Add some space inside the box */
+    background-color: #e7e7e7; /* Set a background color */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Optional: add a shadow for a 3D effect */
+    text-align: left; /* Center the text inside the box */
+     /* Center the text vertically */
+    font-family: Arial, sans-serif; /* Set a font family */
+   
+   margin-top: 50px;
+    margin-left: 30%;
+}
+.box2 h1{
+    font-size: 55px;
+    text-align: center;
+}
+
+.boxtrip-2{
+    display:flex;
+}
+
+.box2-1{
+    width: 35%; /* Set the width of the box */
+    height: 85px; /* Set the height of the box */
+    border: 5px solid #313131; /* Set the border with a color and thickness */
     padding: 20px; /* Add some space inside the box */
     background-color: #e7e7e7; /* Set a background color */
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Optional: add a shadow for a 3D effect */
@@ -30,9 +53,123 @@
      /* Center the text vertically */
     font-family: Arial, sans-serif; /* Set a font family */
     display: flex;
-    margin-top: 50px;
+    margin-top: -25px;
+    margin-left: 5px;
+}
+
+.box2-2{
+    width: 35%; /* Set the width of the box */
+    height: 85px; /* Set the height of the box */
+    border: 5px solid #313131; /* Set the border with a color and thickness */
+    padding: 20px; /* Add some space inside the box */
+    background-color: #e7e7e7; /* Set a background color */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Optional: add a shadow for a 3D effect */
+    text-align: left; /* Center the text inside the box */
+     /* Center the text vertically */
+    font-family: Arial, sans-serif; /* Set a font family */
+    display: flex;
+    margin-top: -25px;
+    margin-left: 5px;
+}
+
+.box2-3{
+    width: 35%; /* Set the width of the box */
+    height: 85px; /* Set the height of the box */
+    border: 5px solid #313131; /* Set the border with a color and thickness */
+    padding: 20px; /* Add some space inside the box */
+    background-color: #e7e7e7; /* Set a background color */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Optional: add a shadow for a 3D effect */
+    text-align: left; /* Center the text inside the box */
+     /* Center the text vertically */
+    font-family: Arial, sans-serif; /* Set a font family */
+    display: flex;
+    margin-top: -25px;
+    margin-left: 5px;
+}
+
+.box3{
+    width: 35%; /* Set the width of the box */
+    height: 270px; /* Set the height of the box */
+    border: 5px solid #313131; /* Set the border with a color and thickness */
+    padding: 2px; /* Add some space inside the box */
+    background-color: #e7e7e7; /* Set a background color */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Optional: add a shadow for a 3D effect */
+    text-align: left; /* Center the text inside the box */
+     /* Center the text vertically */
+    font-family: Arial, sans-serif; /* Set a font family */
+   
+   margin-top: 50px;
     margin-left: 30%;
 }
-.box2 h1{
+.box3 h1{
     font-size: 55px;
+    text-align: center;
+}
+
+.boxtrip-3{
+    display:flex;
+}
+
+.box3-1{
+    width: 35%; /* Set the width of the box */
+    height: 85px; /* Set the height of the box */
+    border: 5px solid #313131; /* Set the border with a color and thickness */
+    padding: 20px; /* Add some space inside the box */
+    background-color: #e7e7e7; /* Set a background color */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Optional: add a shadow for a 3D effect */
+    text-align: left; /* Center the text inside the box */
+     /* Center the text vertically */
+    font-family: Arial, sans-serif; /* Set a font family */
+    display: flex;
+    margin-top: -25px;
+    margin-left: 5px;
+}
+
+.box3-2{
+    width: 35%; /* Set the width of the box */
+    height: 85px; /* Set the height of the box */
+    border: 5px solid #313131; /* Set the border with a color and thickness */
+    padding: 20px; /* Add some space inside the box */
+    background-color: #e7e7e7; /* Set a background color */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Optional: add a shadow for a 3D effect */
+    text-align: left; /* Center the text inside the box */
+     /* Center the text vertically */
+    font-family: Arial, sans-serif; /* Set a font family */
+    display: flex;
+    margin-top: -25px;
+    margin-left: 5px;
+}
+
+.box3-3{
+    width: 35%; /* Set the width of the box */
+    height: 85px; /* Set the height of the box */
+    border: 5px solid #313131; /* Set the border with a color and thickness */
+    padding: 20px; /* Add some space inside the box */
+    background-color: #e7e7e7; /* Set a background color */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Optional: add a shadow for a 3D effect */
+    text-align: left; /* Center the text inside the box */
+     /* Center the text vertically */
+    font-family: Arial, sans-serif; /* Set a font family */
+    display: flex;
+    margin-top: -25px;
+    margin-left: 5px;
+}
+
+.box4{
+    width: 35%; /* Set the width of the box */
+    height: 270px; /* Set the height of the box */
+    border: 5px solid #313131; /* Set the border with a color and thickness */
+    padding: 2px; /* Add some space inside the box */
+    background-color: #e7e7e7; /* Set a background color */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Optional: add a shadow for a 3D effect */
+    text-align: left; /* Center the text inside the box */
+     /* Center the text vertically */
+    font-family: Arial, sans-serif; /* Set a font family */
+   
+   margin-top: 50px;
+    margin-left: 30%;
+}
+.box4 h1{
+    font-size: 55px;
+    text-align: center;
 }
