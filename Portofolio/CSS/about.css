@@ -1,0 +1,38 @@
+.box1{
+    width: 35%; /* Set the width of the box */
+    height: 270px; /* Set the height of the box */
+    border: 5px solid #313131; /* Set the border with a color and thickness */
+    padding: 20px; /* Add some space inside the box */
+    background-color: #e7e7e7; /* Set a background color */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Optional: add a shadow for a 3D effect */
+    text-align: left; /* Center the text inside the box */
+     /* Center the text vertically */
+    font-family: Arial, sans-serif; /* Set a font family */
+    display: flex;
+    margin-top: 50px;
+    margin-left: 30%;
+}
+.box1 h1{
+    font-size: 55px;
+}
+
+.box1 img{
+    margin-left: 118px;
+}
+.box2{
+    width: 35%; /* Set the width of the box */
+    height: 270px; /* Set the height of the box */
+    border: 5px solid #313131; /* Set the border with a color and thickness */
+    padding: 20px; /* Add some space inside the box */
+    background-color: #e7e7e7; /* Set a background color */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Optional: add a shadow for a 3D effect */
+    text-align: left; /* Center the text inside the box */
+     /* Center the text vertically */
+    font-family: Arial, sans-serif; /* Set a font family */
+    display: flex;
+    margin-top: 50px;
+    margin-left: 30%;
+}
+.box2 h1{
+    font-size: 55px;
+}

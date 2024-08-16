@@ -1,0 +1,10 @@
+.project{
+    text-align: center;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+.mr{
+    margin-right: 30px;
+}

@@ -1,0 +1,48 @@
+.box {
+    width: 97%; /* Set the width of the box */
+    height: 50px; /* Set the height of the box */
+    border: 5px solid #313131; /* Set the border with a color and thickness */
+    padding: 20px; /* Add some space inside the box */
+    background-color: #e7e7e7; /* Set a background color */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Optional: add a shadow for a 3D effect */
+    text-align: left; /* Center the text inside the box */
+     /* Center the text vertically */
+    font-family: Arial, sans-serif; /* Set a font family */
+    display: flex;
+    
+}
+.marc{
+    background-color: #313131;
+    width: auto;
+    height: 30px;
+    color: #ffffff;
+}
+.portofolio{
+    margin-left: 1500px;
+}
+.about{
+    margin-left: 70px;
+}
+.portofolio:hover{
+    background-color: #313131;
+    width: auto;
+    height: 30px;
+    color: #ffffff;
+}
+.about:hover{
+    background-color: #313131;
+    width: auto;
+    height: 30px;
+    color: #ffffff;
+}
+a:visited{
+    color: grey;
+text-decoration:line-through;
+background-color: blue;
+}
+
+a:visited{
+    color: grey;
+text-decoration:line-through;
+background-color: blue;
+}
